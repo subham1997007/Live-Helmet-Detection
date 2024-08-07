@@ -4,4 +4,3 @@ The  higher  death  rate  in  motorbike  accidents  is  credited  to  carelessne
 
 - Currently, I have not uploaded notebook (ipynb) file, datasets and saved model (pickle cfg) or anything else, I'll upload it soon. Meanwhile for getting any help regarding this, you can mail me on [subhptps@gmail.com](mailto:subhptps@gmail.com)
 
-- [Go through my article](https://www.researchgate.net/publication/344109522_Live_Helmet_Detection_System_for_Detecting_Bikers_without_Helmet)
